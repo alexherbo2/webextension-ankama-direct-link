@@ -6,6 +6,12 @@
 
 ## Installation
 
+### Installing from the Chrome Web Store
+
+https://chrome.google.com/webstore/detail/ankama-direct-link/fpknnfjpolhekpmfkiibgjlookjalpic
+
+### Installing from the source
+
 ``` sh
 make
 ```
