@@ -2,6 +2,10 @@
 
 > Bypass the Ankama external link warning.
 
+###### What it does
+
+It skips the 5 seconds waiting to access your favorite sites.
+
 [![Bypass the Ankama external link warning](https://img.youtube.com/vi_webp/PHd3GTE6lUg/maxresdefault.webp)](https://youtu.be/PHd3GTE6lUg)
 
 ## Installation
