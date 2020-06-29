@@ -1,8 +1,9 @@
-# [Ankama] direct link for [Chrome] and [Firefox]
+# [Ankama] direct link for [Chrome] and [Firefox] – [WebExtensions]
 
 [Ankama]: https://ankama.com
 [Chrome]: https://google.com/chrome/
 [Firefox]: https://mozilla.org/firefox/
+[WebExtensions]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
 
 Bypass the [Ankama] external link warning.
 
