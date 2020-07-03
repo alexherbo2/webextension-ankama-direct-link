@@ -5,6 +5,8 @@
 [Firefox]: https://mozilla.org/firefox/
 [WebExtensions]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
 
+<img src="https://s.ankama.com/www/static.ankama.com/ankama/www/modules/assets/logo.png" height="32" align="right">
+
 Bypass the [Ankama] external link warning.
 
 [![Bypass the Ankama external link warning](https://img.youtube.com/vi_webp/PHd3GTE6lUg/maxresdefault.webp)](https://youtu.be/PHd3GTE6lUg "YouTube – Bypass the Ankama external link warning")
