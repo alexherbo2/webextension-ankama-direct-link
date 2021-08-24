@@ -9,8 +9,8 @@
 
 Bypass the [Ankama] external link warning.
 
-[![Bypass the Ankama external link warning](https://img.youtube.com/vi_webp/PHd3GTE6lUg/maxresdefault.webp)](https://youtu.be/PHd3GTE6lUg "YouTube – Bypass the Ankama external link warning")
-[![YouTube Play Button](https://www.iconfinder.com/icons/317714/download/png/16)](https://youtu.be/PHd3GTE6lUg) · [Bypass the Ankama external link warning](https://youtu.be/PHd3GTE6lUg)
+[![Thumbnail](https://img.youtube.com/vi_webp/PHd3GTE6lUg/maxresdefault.webp)](https://youtu.be/PHd3GTE6lUg)
+[![Button](https://www.iconfinder.com/icons/317714/download/png/16)](https://youtu.be/PHd3GTE6lUg)
 
 ## Dependencies
 
